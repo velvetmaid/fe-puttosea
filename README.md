@@ -1,6 +1,6 @@
 # Deploy
 https://puttoseaid.netlify.app/
-built with svelte & tailwind
+> Built with svelte & tailwind. [Design by Mustafa Kemal](https://dribbble.com/shots/16446274-NEW-PUTTOSEA/attachments/11144082?mode=media)
 
 # create-svelte
 
