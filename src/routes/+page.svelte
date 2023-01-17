@@ -1,4 +1,4 @@
-<section class="pt-10">
+<section id="destination" class="pt-10">
 	<div class="max-w-screen-lg mx-auto">
 		<div class="flex flex-col">
 			<div class="md:flex md:flex-col md:text-start md:px-0 text-center px-3">
@@ -44,7 +44,7 @@
 	</div>
 </section>
 
-<section class="">
+<section>
 	<div class="max-w-screen-lg mx-auto">
 		<div class="flex py-[6.5rem] space-x-12 justify-betwen h-[36rem]">
 			<div class="w-1/2 relative">
@@ -81,7 +81,7 @@
 	</div>
 </section>
 
-<section class="pt-5">
+<section id="service" class="pt-5">
 	<div class="max-w-screen-lg mx-auto">
 		<div class="md:flex md:flex-col md:text-start md:px-0 text-center pb-20 px-3">
 			<h1 class="uppercase tracking-[.25em] text-3xl font-medium">services</h1>
